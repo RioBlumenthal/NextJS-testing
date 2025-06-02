@@ -1,2 +1,2 @@
 # NextJS-testing
-Learning Next's
+Learning NextJX with PostgreSQL for DB
